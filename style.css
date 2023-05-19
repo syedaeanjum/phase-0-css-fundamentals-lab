@@ -1,5 +1,23 @@
 body {
+  text-align: center;
   width: 100%;
   height: 100%;
   margin: 0;
+}
+p{ 
+  text-align: center;
+}
+
+h1{
+  text-align: center;
+}
+
+#details div{
+  float: left;
+  background-color: red;
+  width: 25%;
+}
+#featured-property{
+  width: 800px;
+  text-align: center;
 }
